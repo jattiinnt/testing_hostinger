@@ -6,6 +6,8 @@ function Categories_card() {
 
 <>
 
+<h1>testing github CI/CD</h1>
+
 {/* <!-- Category Start --> */}
         <div className="container-xxl py-5">
             <div className="container">
